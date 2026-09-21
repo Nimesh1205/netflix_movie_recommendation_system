@@ -28,15 +28,14 @@ A machine learning–based movie recommendation system that suggests Netflix tit
 - Feature engineering using genres, cast, director, and description.
 - Vectorization of text data using TF-IDF / CountVectorizer.
 - Similarity computation using cosine similarity.
-- (Optional) Collaborative filtering using user–item rating matrices.
-- Simple command-line or web interface to get recommendations.
+- Simple web interface to get recommendations.
 - Modular, well-documented codebase for easy extension.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** Python 3.9+
+- **Language:** Python 3.14+
 - **Core Libraries:**
   - `pandas`, `numpy` – data manipulation
   - `scikit-learn` – TF-IDF, cosine similarity, preprocessing

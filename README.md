@@ -92,9 +92,8 @@ The project uses a Netflix movies dataset containing information such as:
 
 **Source:**  
 Common sources include:
-- Kaggle: “Netflix Movies and TV Shows” dataset  
-- Other public Netflix metadata collections
-
+- Kaggle: “TMBD 5000 Movies & TMBD 5000 Credits” dataset
+- 
 *(Update this with your exact dataset name and source link.)*
 
 ---

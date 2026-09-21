@@ -103,7 +103,7 @@ Common sources include:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Nimesh1205/netflix_movie_recommendation_system.git](https://github.com/Nimesh1205/netflix_movie_recommendation_system.git)
+git clone https://github.com/Nimesh1205/netflix_movie_recommendation_system.git
 cd netflix_movie_recommendation_system
 ```
 
@@ -111,12 +111,12 @@ cd netflix_movie_recommendation_system
 
 ```bash
 # On Windows
-python -m venv venv
-venv\Scripts\activate
+python3 -m venv venv.
+.venv\Scripts\Activate.ps1
 
 # On Linux/macOS
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -140,4 +140,4 @@ streamlit
 
 ### 4. Place the Dataset
 
-Put your dataset file (e.g., `netflix_titles.csv`) inside a `data/` folder:
+Put your dataset file (e.g., `tmbd_5000_movies.csv`) inside a `data/` folder:

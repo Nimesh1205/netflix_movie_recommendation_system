@@ -136,8 +136,6 @@ seaborn
 streamlit
 ```
 
-*(Add `flask` / `fastapi` etc. if you have a web/API layer.)*
-
 ### 4. Place the Dataset
 
 Put your dataset file (e.g., `tmbd_5000_movies.csv`) inside a `data/` folder:
